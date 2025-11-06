@@ -36,3 +36,4 @@ Links
 - Portfolio Page: [https://datascienceportfol.io/temoshodibakoane0909](https://datascienceportfol.io/temoshodibakoane0909)
 
 Preview
+https://github.com/temoshodibakoane/Motor-Insurance-Data-Analysis/blob/main/Screenshot%202025-11-06%20124935.png?raw=true
